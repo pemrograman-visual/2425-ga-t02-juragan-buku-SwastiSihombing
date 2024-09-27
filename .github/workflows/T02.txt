@@ -1,6 +1,3 @@
-// 12S24037- Maxwell Rumahorbo
-// 12S24030- Swasti Silaban
-
 Function Main
     Declare Integer stok, tahunterbit
     Declare String isbn, judul, penulis, penerbit, formatbukuelektrik, none, kategori
@@ -39,5 +36,3 @@ Function Main
     End
     Output isbn&"|"&judul&"|"&penulis&"|"&tahunterbit&"|"&penerbit&"|"&formatbukuelektrik&"|"&hargapembelian&"|"&minimummargin&"|"&stok&"|"&rating&"|"&kategori
 End
-
-
